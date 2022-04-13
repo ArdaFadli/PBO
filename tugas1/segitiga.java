@@ -1,3 +1,5 @@
+package tugas1;
+
 public class segitiga {
     public static void main(String[] args) {
         double base = 6, height = 8, area;

@@ -1,3 +1,5 @@
+package tugas1;
+
 public class tabung {
     public static void main(String[] args) {
         double phi = 3.14, diameter = 5, length = 10;

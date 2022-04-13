@@ -1,3 +1,5 @@
+package tugas1;
+
 public class lingkaran {
   public static void main(String[] args) {
     double phi = 3.14, d = 10, circumference;
